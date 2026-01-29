@@ -2,7 +2,6 @@
 
 A modern, full-stack web application for streaming live TV channels from IPTV M3U playlists. Built with React 18, TypeScript, and Video.js for seamless HLS streaming.
 
-![OTT Streaming Platform](https://via.placeholder.com/1200x600/1f2937/ffffff?text=OTT+Streaming+Platform)
 
 ## ✨ Features
 
